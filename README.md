@@ -19,7 +19,8 @@ python3 -m venv Pytorch
 source Pytorch/bin/activate
 ```
 
-**Step 3:** Upgrade pip and install the CPU version of Pytorch. (Note: you may be using pip3 instead of pip so just add 3 if needed)
+**Step 3:** Upgrade pip and install the CPU version of Pytorch. 
+    (Note: you may be using pip3 instead of pip so just add 3 if needed)
 ```
 pip install --upgrade pip
 pip install torch==1.12.1+cpu torchvision==0.13.1+cpu torchaudio==0.12.1+cpu -f https://download.pytorch.org/whl/cpu/torch_stable.html
