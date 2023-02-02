@@ -1,1 +1,0 @@
-The images in this folder are used for training and evaulating the model being built
